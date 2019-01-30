@@ -1,0 +1,6 @@
+{:paths ["src"]
+
+ :deps {org.clojure/clojure    {:mvn/version "1.8.0"}
+        org.jdom/jdom2         {:mvn/version "2.0.6"}
+        net.java.dev.rome/rome {:mvn/version "1.0.0"}}
+ }
